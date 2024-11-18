@@ -1,0 +1,3 @@
+This is my 2nd file by the name 'file2.txt'
+We are going to add this file to the staging area
+Then we are going to commit this file in the local repository
